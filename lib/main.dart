@@ -8,7 +8,7 @@ import 'package:http/http.dart' as http;
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   Stripe.publishableKey =
-  "pk_test_51HlyzwHAF2LJjkVLLzEdIkwX9hmMx6JvDt8y2ro4DSyMWiLkbxsXO0eouOqMk8cubTAOQNQlnZQc5Px76NgyjHbv00Ch3B5TPY";
+  "PUBLIC_KEY";
   await Stripe.instance.applySettings();
   runApp(const MyApp());
 }
