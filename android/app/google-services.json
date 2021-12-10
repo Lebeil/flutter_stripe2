@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "722545281525",
+    "project_id": "flutterstripe-694a4",
+    "storage_bucket": "flutterstripe-694a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722545281525:android:d5e2027d30f9c8e1a938bc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_stripe2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722545281525-sr8263n5pvm5fue0j1s8df8ddfhha2ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCglPqEAaqJmTPo_5sAIhzNcPV2A8oclgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722545281525-sr8263n5pvm5fue0j1s8df8ddfhha2ps.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "722545281525-dq0revb4p8c0f69u8labgjfi3jo7ankn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterStripe2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
