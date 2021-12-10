@@ -1,6 +1,6 @@
 # flutter_stripe2
 
-A new Flutter project.
+Accepter les paiements avec Stripe et Firebase.
 
 ## Getting Started
 
